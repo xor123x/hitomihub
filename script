@@ -1,0 +1,2 @@
+getgenv().key = "your key goes here"
+loadstring(game:HttpGet("https://hitomihub.000webhostapp.com/HitomiHub/script/script2"))()
